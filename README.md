@@ -42,5 +42,5 @@ Analysis Outline
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/Mac-Juliette/Prevalence-of-Mycobacterium-tuberculosis-Complex-in-Cattle.git
+   [git clone https://github.com/Mac-Juliette/Prevalence-of-Mycobacterium-tuberculosis-Complex-in-Cattle.git](https://github.com/Mac-Juliette/Prevalence-of-Mycobacterium-tuberculosis-Complex-in-Cattle-/tree/main)
 
